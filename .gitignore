@@ -5,3 +5,8 @@
 *.txt
 .idea/
 __pycache__/
+# 忽略特定的数据集目录
+Data_DS1_raspberry-main/
+Data_DS1_smartwatch-main/
+# 忽略文件名中包含 data 的文件（不区分大小写）
+*[Dd]ata*

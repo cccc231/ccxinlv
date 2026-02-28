@@ -1,0 +1,7 @@
+*.npy
+*.pcap
+*.keras
+*.zip
+*.txt
+.idea/
+__pycache__/
